@@ -6,8 +6,8 @@ The course covers basic algorithmic techniques and ideas for computational probl
 
 ## What will you learn?
 <ul>
-Essential algorithmic techniques
-Design efficient algorithms
-Practice solving algorithmic interview problems
-Implement efficient and reliable solutions
+  <item>Essential algorithmic techniques</item>
+<item>Design efficient algorithms</item>
+<item>Practice solving algorithmic interview problems</item>
+<item>Implement efficient and reliable solutions</item>
 </ul>
