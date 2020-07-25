@@ -29,4 +29,4 @@ In this final module of the course you will learn about the powerful algorithmic
 In this module, we continue practicing implementing dynamic programming solutions.
 
 # Verified Certificate
-![Verified Certificate](https://drive.google.com/file/d/12S_S5dEmDbjL1Vvt0FTk5ZvjUNwbYyto/view?usp=sharing)
+![Verified Certificate](https://github.com/KartikeySharma/AlgorithmicToolbox/blob/master/CertificateofCompletion_AlgorithmicToolbox.png)
